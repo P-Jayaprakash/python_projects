@@ -1,5 +1,6 @@
 '''
 it will take a screenshot after 5 seconds
+The disadvantage of this program is it overwrites the existing screenshot with the new one clicked
 '''
 
 import time
