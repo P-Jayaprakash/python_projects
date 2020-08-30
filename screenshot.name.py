@@ -1,3 +1,4 @@
+#In this program a new name is generated for each screenshot according to the time. So there will be no chance for the overwritten of previous clicked screenshots.
 import time
 import pyautogui
 def screenshot():
