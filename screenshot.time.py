@@ -1,3 +1,7 @@
+'''
+it will take a screenshot after 5 seconds
+'''
+
 import time
 import pyautogui
 def screenshot():
